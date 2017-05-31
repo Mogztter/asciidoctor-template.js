@@ -1,6 +1,6 @@
 {
   "name": "asciidoctor-template.js",
-  "version": "v1.5.5-integration2",
+  "version": "1.5.5-integration3",
   "description": "Generic template backend for Asciidoctor.js ",
   "main": "dist/main.min.js",
   "engines": {
@@ -50,6 +50,6 @@
     "bestikk-uglify": "^0.1.1",
     "colors": "1.1.2",
     "cross-env": "^1.0.8",
-    "opal-compiler": "0.11.0-integration4"
+    "opal-compiler": "0.11.0-integration7"
   }
 }
